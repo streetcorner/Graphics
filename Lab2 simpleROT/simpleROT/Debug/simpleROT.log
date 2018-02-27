@@ -1,0 +1,4 @@
+﻿  TRACKER : 错误 TRK0002:  未能执行命令: “C:\Windows\SYSTEM32\CL.exe @C:\Users\streetcorner\AppData\Local\Temp\tmpcc4504bdd58d4370ad21a48faf15964f.rsp”。操作标识符不正确。
+  
+  
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppCommon.targets(341,5): error MSB6006: “CL.exe”已退出，代码为 2。
